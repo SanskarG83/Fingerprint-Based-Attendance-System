@@ -24,8 +24,10 @@ Overall, this application is a useful tool for students, teachers, or anyone els
 # Demo:
 
 1) User (Student) Login Interface:
+
 https://user-images.githubusercontent.com/100311018/215962223-09738a19-2bd2-4aa7-af66-66f1fffa5735.mp4
 
 2) Admin (Teacher) Login Interface:
+
 https://user-images.githubusercontent.com/100311018/215962537-fb82ee03-28cc-42d9-a09b-d7619c41233b.mp4
 
