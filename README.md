@@ -31,3 +31,12 @@ https://user-images.githubusercontent.com/100311018/215962223-09738a19-2bd2-4aa7
 
 https://user-images.githubusercontent.com/100311018/215962537-fb82ee03-28cc-42d9-a09b-d7619c41233b.mp4
 
+
+# How it's made:
+- Flutter - The mobile app development framework used
+- Node.js - The JavaScript runtime used for the server-side logic and REST API's
+- MongoDB - The NoSQL database used for storing the attendance data
+- Render - The platform used for hosting the Node.js server and REST API's
+
+The Flutter framework was used to build the front-end of the application and provide a seamless user experience. The Node.js runtime was used for the server-side logic to handle the communication with the database and provide a secure and efficient way to handle the attendance data. We have also written RESTful APIs in Node.js that handle the communication between the mobile app and the server. These REST APIs were hosted on Render, a platform that provides easy and convenient hosting solutions for Node.js applications. The MongoDB database was used to store the attendance data and provide a flexible and scalable solution for data management.
+
